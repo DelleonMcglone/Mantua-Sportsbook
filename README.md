@@ -1,8 +1,6 @@
 # Mantua-Sportsbook
 AI-powered sports prediction markets on Solana
 
-AI-Powered Sports Prediction Markets on Solana
-
 Built for the Indie.fun Hackathon
 
 Mantua Sportsbook is an AI-driven, Solana-native prediction market where users can bet on football games using USDC, backed by a fully on-chain market contract built with Anchor.
